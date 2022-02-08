@@ -2,7 +2,7 @@
  
  ### Hey! awesome peoples, I am full-stack web developer and i am developing amazing websites with my knowledge about web development technologys
  
-#My stack
+# My stack
 
 ## Front end
  - Html5
@@ -11,4 +11,3 @@
 ## Back end
  - Nodejs
  - MongoDB
- - 
