@@ -4,5 +4,5 @@
  
 # My stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milan1310&theme=vue)](https://github.com/milan1310/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milan1310&theme=vue&layout=compact)](https://github.com/milan1310/github-readme-stats)
 
