@@ -4,10 +4,5 @@
  
 # My stack
 
-## Front end
- - Html5
- - CSS3
- - Javascript 
-## Back end
- - Nodejs
- - MongoDB
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milan1310)](https://github.com/milan1310/github-readme-stats)
+
